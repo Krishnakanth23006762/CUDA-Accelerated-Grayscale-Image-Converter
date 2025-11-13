@@ -126,5 +126,5 @@ if (y < numCols && x < numRows) {
 ## Credits
 
 * Udacity GPU Programming Assignment (HW1)
-* Modified by Ashwin Akash M
+* Modified by krishnakanth b 
 
